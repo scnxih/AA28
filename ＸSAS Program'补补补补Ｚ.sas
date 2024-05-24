@@ -1,3 +1,0 @@
-abc
-print "abccc"
-ssssssssssssssssssssssssss
