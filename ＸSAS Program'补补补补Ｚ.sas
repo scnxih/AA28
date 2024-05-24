@@ -1,2 +1,2 @@
-adddd /*add comment*/
-modify
+adddd /*add comment
+print adddd
